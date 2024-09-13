@@ -7,21 +7,22 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/UnitsMeasure-Swift/actions)
 
-![UnitsMeasure-Swift](https://user-images.githubusercontent.com/yourimageurl.png)
-----> needs image still
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66bdd65f-594e-47c0-9a4b-eca2bc230029" alt="Image 1" width="25%" />
+  <img src="https://github.com/user-attachments/assets/614fc531-29e2-45aa-ba9d-0db7a64afd82" alt="Image 2" width="25%" />
+</p>
 </div>
 
 ---
 
 ## 📜 About the Project
-**UnitsMeasure-Swift** is a powerful and intuitive unit conversion library for Swift applications. It provides a seamless interface for converting units across various dimensions such as length, weight, temperature, and more. Simply select your input and output units, enter a value, and get the converted result instantly. This library is perfect for applications requiring high precision and diverse unit conversion capabilities.
+**UnitsMeasure-Swift** is a unit conversion library for Swift applications. It provides a seamless interface for converting units across various dimensions such as length and more. Simply select your input and output units, enter a value, and get the converted result instantly. 
 
 ## 🚀 Features
 - **Wide Range of Units**: Supports numerous unit types including metric, imperial, and customary units.
 - **High Precision**: Ensures accurate conversions with minimal loss of precision.
 - **User-Friendly**: Simple and intuitive user interface, allowing users to easily select units and input values.
 - **Lightweight**: Minimalistic design focused on performance and efficiency.
-- **Custom Units**: Ability to add custom units for specialized use cases.
 
 ## 🛠 Installation
 To integrate **UnitsMeasure-Swift** into your Swift project, follow these steps:
